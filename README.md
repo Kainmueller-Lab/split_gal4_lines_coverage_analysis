@@ -6,6 +6,22 @@ discovery curve to the complete set of split-GAL4 lines in the collection descri
 
 For more information, please see the corresponding paper: [Neuron types and distribution of a Drosophila driver line collection](https://www.biorxiv.org/content/10.64898/2026.10.06.756975v1).
 
+## Annotated EM body ID-to-line matches
+
+`data/all_body_id_annotations_*.csv` contain manually annotated matches between EM body IDs and split-GAL4 lines, including confirmed matches and highly ranked false matches from
+the automated search.
+Details on how the data were generated and annotated are provided in the [paper](https://www.biorxiv.org/content/10.64898/2026.10.06.756975v1). Note that the paper primarily focuses on matches between agglomerated cell types and split-GAL4 lines, whereas this resource covers individual EM body IDs.
+These annotations are intended as a resource to facilitate future method development for automated matching. However, the dataset is not yet ready for use as an ML training dataset or benchmark: it lacks, for example, dedicated documentation (e.g., a datasheet), predefined training/validation/test splits, and an evaluation protocol.
+
+## Annotated EM body ID to line matches
+
+`data/all_body_id_annotations_*.csv` lists the manually annotated matches between EM body IDs and
+split-GAL4 lines. It includes both confirmed matches and highly ranked false matches from
+the automated search.
+
+Note that it serves as a resource for evaluating matching methods, but it is not yet an AI- and benchmark-ready dataset, it still lacks, for example, detailed
+documentation, predefined train/validation/test splits or an evaluation protocol.
+
 ## Installation
 
 ```bash
