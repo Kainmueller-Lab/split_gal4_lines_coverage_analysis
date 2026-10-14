@@ -1,0 +1,7 @@
+numpy
+pandas
+openpyxl
+matplotlib
+neuprint-python
+tomli
+scikit-optimize

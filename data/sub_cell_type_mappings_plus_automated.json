@@ -1,0 +1,1970 @@
+{
+    "ct_to_subct": {
+        "AOTU002": [
+            "AOTU002_b",
+            "AOTU002_a"
+        ],
+        "AOTU008": [
+            "AOTU008_a",
+            "AOTU008_b"
+        ],
+        "AVLP044": [
+            "AVLP044_a",
+            "AVLP044_b"
+        ],
+        "AVLP176": [
+            "AVLP176_d",
+            "AVLP176_c",
+            "AVLP176_b",
+            "AVLP176_a"
+        ],
+        "AVLP206": [
+            "AVLP206_a",
+            "AVLP206_b"
+        ],
+        "AVLP548": [
+            "AVLP548_d",
+            "AVLP548_b",
+            "AVLP548_e",
+            "AVLP548_a",
+            "AVLP548_f",
+            "AVLP548_g",
+            "AVLP548_c"
+        ],
+        "CL062": [
+            "CL062_a",
+            "CL062_b"
+        ],
+        "CL086": [
+            "CL086_c",
+            "CL086_d",
+            "CL086_a",
+            "CL086_b",
+            "CL086_e"
+        ],
+        "CL089": [
+            "CL089_b",
+            "CL089_c",
+            "CL089_a"
+        ],
+        "CL090": [
+            "CL090_a",
+            "CL090_d",
+            "CL090_e",
+            "CL090_c",
+            "CL090_b"
+        ],
+        "CL210": [
+            "CL210_b",
+            "CL210_a"
+        ],
+        "CRE029": [
+            "CRE029_b",
+            "CRE029_c",
+            "CRE029_a"
+        ],
+        "CRE030": [
+            "CRE030_b",
+            "CRE030_a"
+        ],
+        "DSKMP1": [
+            "DSKMP1A",
+            "DSKMP1B"
+        ],
+        "ER1": [
+            "ER1_b",
+            "ER1_a"
+        ],
+        "ER2": [
+            "ER2_b",
+            "ER2_d",
+            "ER2_a",
+            "ER2_c"
+        ],
+        "ER3a": [
+            "ER3a_b",
+            "ER3a_d",
+            "ER3a_a",
+            "ER3a_c"
+        ],
+        "ER3d": [
+            "ER3d_b",
+            "ER3d_a",
+            "ER3d_c",
+            "ER3d_d"
+        ],
+        "FB2H": [
+            "FB2H_a",
+            "FB2H_b"
+        ],
+        "FB2I": [
+            "FB2I_b",
+            "FB2I_a"
+        ],
+        "FB4P": [
+            "FB4P_b",
+            "FB4P_a"
+        ],
+        "FB4Q": [
+            "FB4Q_b",
+            "FB4Q_a"
+        ],
+        "FB6C": [
+            "FB6C_b",
+            "FB6C_a"
+        ],
+        "FB8F": [
+            "FB8F_b",
+            "FB8F_a"
+        ],
+        "FB9B": [
+            "FB9B_b",
+            "FB9B_d",
+            "FB9B_a",
+            "FB9B_e",
+            "FB9B_c"
+        ],
+        "FC1": [
+            "FC1A",
+            "FC1D",
+            "FC1C",
+            "FC1F",
+            "FC1B",
+            "FC1E"
+        ],
+        "FS4": [
+            "FS4A",
+            "FS4B"
+        ],
+        "KCa'b'": [
+            "KCa'b'-ap1",
+            "KCa'b'-m",
+            "KCa'b'-ap2"
+        ],
+        "KCa'b'-ap": [
+            "KCa'b'-ap1",
+            "KCa'b'-ap2"
+        ],
+        "KCab": [
+            "KCab-p",
+            "KCab-s",
+            "KCab-m",
+            "KCab-c"
+        ],
+        "KCg": [
+            "KCg-s2",
+            "KCg-s1",
+            "KCg-t",
+            "KCg-s3",
+            "KCg-m",
+            "KCg-d"
+        ],
+        "LC28": [
+            "LC28a",
+            "LC28b"
+        ],
+        "LC45": [
+            "LC45b",
+            "LC45a"
+        ],
+        "LHAD3b1": [
+            "LHAD3b1_a",
+            "LHAD3b1_f",
+            "LHAD3b1_b",
+            "LHAD3b1_e",
+            "LHAD3b1_c",
+            "LHAD3b1_g",
+            "LHAD3b1_h",
+            "LHAD3b1_d"
+        ],
+        "LHAV2b2": [
+            "LHAV2b2_a",
+            "LHAV2b2_b",
+            "LHAV2b2_c"
+        ],
+        "LHAV2g2": [
+            "LHAV2g2_a",
+            "LHAV2g2_b"
+        ],
+        "LHAV3a1": [
+            "LHAV3a1_a",
+            "LHAV3a1_b",
+            "LHAV3a1_c"
+        ],
+        "LHAV3b2": [
+            "LHAV3b2_a",
+            "LHAV3b2_c",
+            "LHAV3b2_b"
+        ],
+        "LHAV4a1": [
+            "LHAV4a1_a",
+            "LHAV4a1_b",
+            "LHAV4a1_c"
+        ],
+        "LHAV4e2": [
+            "LHAV4e2_b",
+            "LHAV4e2_a"
+        ],
+        "LHAV4g7": [
+            "LHAV4g7_a",
+            "LHAV4g7_b"
+        ],
+        "LHAV5a6": [
+            "LHAV5a6_a",
+            "LHAV5a6_b"
+        ],
+        "LHAV5a7": [
+            "LHAV5a7_a",
+            "LHAV5a7_c",
+            "LHAV5a7_b"
+        ],
+        "LHAV6a2": [
+            "LHAV6a2_a",
+            "LHAV6a2_c",
+            "LHAV6a2_b"
+        ],
+        "LHAV6f1": [
+            "LHAV6f1_b",
+            "LHAV6f1_a"
+        ],
+        "LHAV9a1": [
+            "LHAV9a1_a",
+            "LHAV9a1_b",
+            "LHAV9a1_c"
+        ],
+        "LHPV2a1": [
+            "LHPV2a1_b",
+            "LHPV2a1_c",
+            "LHPV2a1_d",
+            "LHPV2a1_a",
+            "LHPV2a1_e"
+        ],
+        "LHPV2b2": [
+            "LHPV2b2_b",
+            "LHPV2b2_a"
+        ],
+        "LHPV2b5": [
+            "LHPV2b5_a",
+            "LHPV2b5_b"
+        ],
+        "LHPV4a10": [
+            "LHPV4a10_a",
+            "LHPV4a10_b"
+        ],
+        "LHPV4a4": [
+            "LHPV4a4_b",
+            "LHPV4a4_c",
+            "LHPV4a4_a"
+        ],
+        "LHPV4b1": [
+            "LHPV4b1_b",
+            "LHPV4b1_a"
+        ],
+        "LHPV4c1": [
+            "LHPV4c1_b",
+            "LHPV4c1_c",
+            "LHPV4c1_a"
+        ],
+        "LHPV4c4": [
+            "LHPV4c4_a",
+            "LHPV4c4_b"
+        ],
+        "LHPV5a1": [
+            "LHPV5a1_a",
+            "LHPV5a1_b"
+        ],
+        "LHPV5b2": [
+            "LHPV5b2_c",
+            "LHPV5b2_b",
+            "LHPV5b2_a"
+        ],
+        "LHPV5b4": [
+            "LHPV5b4_a",
+            "LHPV5b4_b"
+        ],
+        "LHPV5c1": [
+            "LHPV5c1_a",
+            "LHPV5c1_b",
+            "LHPV5c1_d",
+            "LHPV5c1_c"
+        ],
+        "LHPV5d1": [
+            "LHPV5d1_b",
+            "LHPV5d1_a"
+        ],
+        "LHPV6a2": [
+            "LHPV6a2_a",
+            "LHPV6a2_b"
+        ],
+        "LHPV6a3": [
+            "LHPV6a3_a",
+            "LHPV6a3_b"
+        ],
+        "LHPV6a4": [
+            "LHPV6a4_b",
+            "LHPV6a4_a",
+            "LHPV6a4_c"
+        ],
+        "LLPC2": [
+            "LLPC2a"
+        ],
+        "PAM01": [
+            "PAM01_a",
+            "PAM01_b"
+        ],
+        "PAM06": [
+            "PAM06_b",
+            "PAM06_a"
+        ],
+        "PEN": [
+            "PEN_a(PEN1)",
+            "PEN_b(PEN2)"
+        ],
+        "PFNm": [
+            "PFNm_b",
+            "PFNm_a"
+        ],
+        "PFNp": [
+            "PFNp_e",
+            "PFNp_b",
+            "PFNp_a",
+            "PFNp_c",
+            "PFNp_d"
+        ],
+        "PFR": [
+            "PFR_b",
+            "PFR_a"
+        ],
+        "PI1": [
+            "PI1_c",
+            "PI1_b",
+            "PI1_a"
+        ],
+        "PLP046": [
+            "PLP046_a",
+            "PLP046_b"
+        ],
+        "PLP115": [
+            "PLP115_b",
+            "PLP115_a"
+        ],
+        "PS005": [
+            "PS005_d",
+            "PS005_f",
+            "PS005_a",
+            "PS005_b",
+            "PS005_e",
+            "PS005_c"
+        ],
+        "PS008": [
+            "PS008_a",
+            "PS008_b"
+        ],
+        "PS096": [
+            "PS096_b",
+            "PS096_c",
+            "PS096_a"
+        ],
+        "PVLP008": [
+            "PVLP008_a",
+            "PVLP008_c",
+            "PVLP008_b"
+        ],
+        "PVLP097": [
+            "PVLP097_b",
+            "PVLP097_a"
+        ],
+        "PVLP133": [
+            "PVLP133_c",
+            "PVLP133_b",
+            "PVLP133_a"
+        ],
+        "SA1": [
+            "SA1_a",
+            "SA1_c",
+            "SA1_b"
+        ],
+        "SA2": [
+            "SA2_a",
+            "SA2_b"
+        ],
+        "SLP044": [
+            "SLP044_b",
+            "SLP044_d",
+            "SLP044_c",
+            "SLP044_a",
+            "SLP044_e"
+        ],
+        "SLP405": [
+            "SLP405_a",
+            "SLP405_b",
+            "SLP405_c"
+        ],
+        "SMP016": [
+            "SMP016_a",
+            "SMP016_b"
+        ],
+        "SMP018": [
+            "SMP018_b",
+            "SMP018_a",
+            "SMP018_c"
+        ],
+        "SMP097": [
+            "SMP097_b",
+            "SMP097_a"
+        ],
+        "SMP098": [
+            "SMP098_b",
+            "SMP098_a"
+        ],
+        "SMP105": [
+            "SMP105_a",
+            "SMP105_b"
+        ],
+        "SMP316": [
+            "SMP316_a",
+            "SMP316_b"
+        ],
+        "SMP408": [
+            "SMP408_d",
+            "SMP408_c",
+            "SMP408_b",
+            "SMP408_a"
+        ],
+        "SMP486": [
+            "SMP486_b",
+            "SMP486_f",
+            "SMP486_c",
+            "SMP486_e",
+            "SMP486_a",
+            "SMP486_d"
+        ],
+        "TuBu": [
+            "TuBu06",
+            "TuBu07",
+            "TuBu08",
+            "TuBu02",
+            "TuBu10",
+            "TuBu04",
+            "TuBu01",
+            "TuBu05",
+            "TuBu09",
+            "TuBu03"
+        ],
+        "TuTuB": [
+            "TuTuB_b",
+            "TuTuB_a"
+        ],
+        "WEDPN10": [
+            "WEDPN10A",
+            "WEDPN10B"
+        ],
+        "WEDPN1A": [
+            "WEDPN1A_a",
+            "WEDPN1A_b"
+        ],
+        "WEDPN2": [
+            "WEDPN2B",
+            "WEDPN2A"
+        ],
+        "aIPg": [
+            "aIPg4",
+            "aIPg3",
+            "aIPg2",
+            "aIPg1"
+        ],
+        "aMe19": [
+            "aMe19b",
+            "aMe19a"
+        ],
+        "lLN1": [
+            "lLN1_a",
+            "lLN1_c",
+            "lLN1_b"
+        ],
+        "lLN16": [
+            "lLN16B",
+            "lLN16A"
+        ],
+        "lLN2T": [
+            "lLN2T_a",
+            "lLN2T_e",
+            "lLN2T_c",
+            "lLN2T_b",
+            "lLN2T_d"
+        ],
+        "mAL3": [
+            "mAL3A",
+            "mAL3B"
+        ],
+        "mAL5": [
+            "mAL5A",
+            "mAL5B"
+        ],
+        "pC1": [
+            "pC1e",
+            "pC1d",
+            "pC1c",
+            "pC1b",
+            "pC1a"
+        ],
+        "v2LN34": [
+            "v2LN34C",
+            "v2LN34A",
+            "v2LN34B"
+        ],
+        "vDeltaA": [
+            "vDeltaA_b",
+            "vDeltaA_a"
+        ],
+        "AVLP325": [
+            "AVLP325_b",
+            "AVLP325_a"
+        ],
+        "LHPV5g1": [
+            "LHPV5g1_b",
+            "LHPV5g1_a"
+        ],
+        "FB4F": [
+            "FB4F_a",
+            "FB4F_b"
+        ],
+        "LHAV7a1": [
+            "LHAV7a1_b",
+            "LHAV7a1_a"
+        ],
+        "FB1E": [
+            "FB1E_a",
+            "FB1E_b"
+        ],
+        "LHPD3a4": [
+            "LHPD3a4_b",
+            "LHPD3a4_c",
+            "LHPD3a4_a"
+        ],
+        "SLP179": [
+            "SLP179_a",
+            "SLP179_b"
+        ],
+        "SLP015": [
+            "SLP015_e",
+            "SLP015_b",
+            "SLP015_c",
+            "SLP015_d",
+            "SLP015_a"
+        ],
+        "LHPD3b1": [
+            "LHPD3b1_a",
+            "LHPD3b1_b"
+        ],
+        "WED036": [
+            "WED036_a",
+            "WED036_b"
+        ],
+        "LHAD3a4": [
+            "LHAD3a4_b",
+            "LHAD3a4_a"
+        ],
+        "LHAD3a3": [
+            "LHAD3a3_b",
+            "LHAD3a3_a"
+        ],
+        "LHPV4a7": [
+            "LHPV4a7_d",
+            "LHPV4a7_b",
+            "LHPV4a7_c",
+            "LHPV4a7_a",
+            "LHPV4a7_f",
+            "LHPV4a7_e"
+        ],
+        "LHPV6h1": [
+            "LHPV6h1_a",
+            "LHPV6h1_b"
+        ],
+        "LHAV4e7": [
+            "LHAV4e7_b",
+            "LHAV4e7_a"
+        ],
+        "WED055": [
+            "WED055_a",
+            "WED055_b"
+        ],
+        "CL266": [
+            "CL266_a",
+            "CL266_b"
+        ],
+        "LHAV1d2": [
+            "LHAV1d2_a",
+            "LHAV1d2_b"
+        ],
+        "LHPV6a9": [
+            "LHPV6a9_b",
+            "LHPV6a9_a"
+        ],
+        "WED040": [
+            "WED040_b",
+            "WED040_a",
+            "WED040_c"
+        ],
+        "PLP042": [
+            "PLP042_b",
+            "PLP042_a",
+            "PLP042_c"
+        ],
+        "LHAD3a7": [
+            "LHAD3a7_a",
+            "LHAD3a7_b"
+        ],
+        "ER3w": [
+            "ER3w_a",
+            "ER3w_b"
+        ],
+        "ER3p": [
+            "ER3p_a",
+            "ER3p_b"
+        ],
+        "FB2F": [
+            "FB2F_a",
+            "FB2F_c",
+            "FB2F_b"
+        ],
+        "LHAD1a4": [
+            "LHAD1a4_a",
+            "LHAD1a4_b"
+        ],
+        "LHAD3f1": [
+            "LHAD3f1_a",
+            "LHAD3f1_b"
+        ],
+        "LHAD1i2": [
+            "LHAD1i2_b",
+            "LHAD1i2_a"
+        ],
+        "SAD051": [
+            "SAD051_b",
+            "SAD051_a"
+        ],
+        "SLP129": [
+            "SLP129_a",
+            "SLP129_b",
+            "SLP129_c"
+        ],
+        "LHAD1b1": [
+            "LHAD1b1_a",
+            "LHAD1b1_b"
+        ],
+        "lLN2F": [
+            "lLN2F_a",
+            "lLN2F_b"
+        ],
+        "AVLP167": [
+            "AVLP167_a",
+            "AVLP167_b"
+        ],
+        "SMP279": [
+            "SMP279_c",
+            "SMP279_a",
+            "SMP279_b"
+        ],
+        "PAM04": [
+            "PAM04_a",
+            "PAM04_b"
+        ],
+        "LHPD3a2": [
+            "LHPD3a2_c",
+            "LHPD3a2_a",
+            "LHPD3a2_b"
+        ],
+        "aSP10C": [
+            "aSP10C_b",
+            "aSP10C_a"
+        ],
+        "SLP189": [
+            "SLP189_b",
+            "SLP189_a"
+        ],
+        "LHPD2a5": [
+            "LHPD2a5_a",
+            "LHPD2a5_b"
+        ],
+        "LHPV6i2": [
+            "LHPV6i2_a",
+            "LHPV6i2_b"
+        ],
+        "LHPV6a6": [
+            "LHPV6a6_a",
+            "LHPV6a6_b"
+        ],
+        "LHPD4e1": [
+            "LHPD4e1_b",
+            "LHPD4e1_a"
+        ],
+        "SLP182": [
+            "SLP182_a",
+            "SLP182_c",
+            "SLP182_b"
+        ],
+        "FB9C": [
+            "FB9C_b",
+            "FB9C_a"
+        ],
+        "SLP111": [
+            "SLP111_a",
+            "SLP111_b"
+        ],
+        "SMP432": [
+            "SMP432_b",
+            "SMP432_a"
+        ],
+        "SMP359": [
+            "SMP359_a",
+            "SMP359_b"
+        ],
+        "SLP024": [
+            "SLP024_a",
+            "SLP024_b",
+            "SLP024_c"
+        ],
+        "LHPV6f3": [
+            "LHPV6f3_b",
+            "LHPV6f3_d",
+            "LHPV6f3_a",
+            "LHPV6f3_c",
+            "LHPV6f3_e"
+        ],
+        "SLP432": [
+            "SLP432_a",
+            "SLP432_b"
+        ],
+        "LHAV6a3": [
+            "LHAV6a3_a",
+            "LHAV6a3_b"
+        ],
+        "SLP164": [
+            "SLP164_b",
+            "SLP164_a"
+        ],
+        "LHPV6a11": [
+            "LHPV6a11_b",
+            "LHPV6a11_a"
+        ],
+        "SLP177": [
+            "SLP177_a",
+            "SLP177_b"
+        ],
+        "SLP240": [
+            "SLP240_b",
+            "SLP240_a",
+            "SLP240_c"
+        ],
+        "SLP193": [
+            "SLP193_b",
+            "SLP193_a"
+        ],
+        "LHAV5a2": [
+            "LHAV5a2_b",
+            "LHAV5a2_a",
+            "LHAV5a2_d",
+            "LHAV5a2_c"
+        ],
+        "LHAV7a3": [
+            "LHAV7a3_b",
+            "LHAV7a3_a"
+        ],
+        "SMP568": [
+            "SMP568_d",
+            "SMP568_a",
+            "SMP568_c",
+            "SMP568_b"
+        ],
+        "LHAD3a8": [
+            "LHAD3a8_b",
+            "LHAD3a8_a"
+        ],
+        "LHPV6i1": [
+            "LHPV6i1_a",
+            "LHPV6i1_b"
+        ],
+        "LHPV6f4": [
+            "LHPV6f4_b",
+            "LHPV6f4_a"
+        ],
+        "CL198": [
+            "CL198_a",
+            "CL198_b"
+        ],
+        "LHAD3a2": [
+            "LHAD3a2_a",
+            "LHAD3a2_b"
+        ],
+        "LHAV5a4": [
+            "LHAV5a4_c",
+            "LHAV5a4_b",
+            "LHAV5a4_a"
+        ],
+        "LHAV6a1": [
+            "LHAV6a1_b",
+            "LHAV6a1_a"
+        ],
+        "LHPD3a3": [
+            "LHPD3a3_a",
+            "LHPD3a3_b",
+            "LHPD3a3_c"
+        ],
+        "LHAV4d2": [
+            "LHAV4d2_a",
+            "LHAV4d2_b"
+        ],
+        "LHAV3b8": [
+            "LHAV3b8_b",
+            "LHAV3b8_a"
+        ],
+        "LHAV2k10": [
+            "LHAV2k10_b",
+            "LHAV2k10_a"
+        ],
+        "LHAV3b1": [
+            "LHAV3b1_b",
+            "LHAV3b1_a"
+        ],
+        "LHAV3b6": [
+            "LHAV3b6_b",
+            "LHAV3b6_a"
+        ],
+        "LHAV5a3": [
+            "LHAV5a3_b",
+            "LHAV5a3_a"
+        ],
+        "LHAV6b1": [
+            "LHAV6b1_a",
+            "LHAV6b1_b"
+        ],
+        "LHAD1f3": [
+            "LHAD1f3_a",
+            "LHAD1f3_b"
+        ],
+        "FB2G": [
+            "FB2G_b",
+            "FB2G_a"
+        ],
+        "LHPD2a4": [
+            "LHPD2a4_a",
+            "LHPD2a4_b",
+            "LHPD2a4_c"
+        ],
+        "LHAV5a9": [
+            "LHAV5a9_a",
+            "LHAV5a9_b"
+        ],
+        "LHAV2f1": [
+            "LHAV2f1_a",
+            "LHAV2f1_b"
+        ],
+        "LHAD1b6": [
+            "LHAD1b6_a",
+            "LHAD1b6_b"
+        ],
+        "LHAV3b9": [
+            "LHAV3b9_a",
+            "LHAV3b9_b"
+        ],
+        "LHAD3e1": [
+            "LHAD3e1_a",
+            "LHAD3e1_b"
+        ],
+        "SMP195": [
+            "SMP195_b",
+            "SMP195_a"
+        ],
+        "PLP064": [
+            "PLP064_a",
+            "PLP064_b"
+        ],
+        "LHAV4b2": [
+            "LHAV4b2_a",
+            "LHAV4b2_b"
+        ],
+        "LHPV4i3": [
+            "LHPV4i3_b",
+            "LHPV4i3_a"
+        ],
+        "LHAD1b2": [
+            "LHAD1b2_b",
+            "LHAD1b2_c",
+            "LHAD1b2_d",
+            "LHAD1b2_a"
+        ],
+        "LHAV6f3": [
+            "LHAV6f3_b",
+            "LHAV6f3_c",
+            "LHAV6f3_a"
+        ],
+        "LHAD1a2": [
+            "LHAD1a2_c",
+            "LHAD1a2_b",
+            "LHAD1a2_a"
+        ],
+        "LHAV2e4": [
+            "LHAV2e4_b",
+            "LHAV2e4_a"
+        ],
+        "LHPD2b1": [
+            "LHPD2b1_a",
+            "LHPD2b1_b"
+        ],
+        "CL019": [
+            "CL019_a",
+            "CL019_b"
+        ],
+        "CL272": [
+            "CL272_a",
+            "CL272_b"
+        ],
+        "LHAV6b2": [
+            "LHAV6b2_a",
+            "LHAV6b2_b"
+        ],
+        "LHAV2k11": [
+            "LHAV2k11_b",
+            "LHAV2k11_a"
+        ],
+        "AVLP225": [
+            "AVLP225_b",
+            "AVLP225_a"
+        ],
+        "SMP117": [
+            "SMP117_b",
+            "SMP117_a"
+        ],
+        "CL050": [
+            "CL050_b",
+            "CL050_a"
+        ],
+        "LHAV4g4": [
+            "LHAV4g4_b",
+            "LHAV4g4_a"
+        ],
+        "LHAV2h1": [
+            "LHAV2h1_b",
+            "LHAV2h1_a"
+        ],
+        "LHAV5a10": [
+            "LHAV5a10_a",
+            "LHAV5a10_b"
+        ],
+        "LHCENT13": [
+            "LHCENT13_a",
+            "LHCENT13_b",
+            "LHCENT13_d",
+            "LHCENT13_c"
+        ],
+        "CRE003": [
+            "CRE003_a",
+            "CRE003_b"
+        ],
+        "SIP003": [
+            "SIP003_a",
+            "SIP003_b"
+        ],
+        "LHPD4d2": [
+            "LHPD4d2_a",
+            "LHPD4d2_b"
+        ],
+        "SIP042": [
+            "SIP042_b",
+            "SIP042_a"
+        ],
+        "LHAV2f2": [
+            "LHAV2f2_b",
+            "LHAV2f2_a"
+        ],
+        "LHPV4a12": [
+            "LHPV4a12_b",
+            "LHPV4a12_a"
+        ],
+        "LHAV2a4": [
+            "LHAV2a4_b",
+            "LHAV2a4_a"
+        ],
+        "PAM08": [
+            "PAM08_c",
+            "PAM08_e",
+            "PAM08_b",
+            "PAM08_a",
+            "PAM08_d"
+        ],
+        "LHPV4a5": [
+            "LHPV4a5_b",
+            "LHPV4a5_a"
+        ],
+        "LHAV2k12": [
+            "LHAV2k12_a",
+            "LHAV2k12_b"
+        ],
+        "LHAV2a5": [
+            "LHAV2a5_b",
+            "LHAV2a5_a"
+        ],
+        "LHAV3e4": [
+            "LHAV3e4_a",
+            "LHAV3e4_b"
+        ],
+        "LHAV4b1": [
+            "LHAV4b1_b",
+            "LHAV4b1_a"
+        ],
+        "LHAV4e1": [
+            "LHAV4e1_b",
+            "LHAV4e1_a"
+        ],
+        "AVLP434": [
+            "AVLP434_a",
+            "AVLP434_b"
+        ],
+        "SLP188": [
+            "SLP188_b",
+            "SLP188_a"
+        ],
+        "LHPV4h1": [
+            "LHPV4h1_a",
+            "LHPV4h1_b"
+        ],
+        "LHPV6f2": [
+            "LHPV6f2_b",
+            "LHPV6f2_c",
+            "LHPV6f2_a"
+        ],
+        "LAL030": [
+            "LAL030_a",
+            "LAL030_b"
+        ],
+        "FB2B": [
+            "FB2B_b",
+            "FB2B_a"
+        ],
+        "LHPV4a9": [
+            "LHPV4a9_b",
+            "LHPV4a9_a"
+        ],
+        "LHAV3g2": [
+            "LHAV3g2_b",
+            "LHAV3g2_a"
+        ],
+        "LHAV4c1": [
+            "LHAV4c1_a",
+            "LHAV4c1_b"
+        ],
+        "LHAD1c1": [
+            "LHAD1c1_b",
+            "LHAD1c1_a"
+        ],
+        "LHAV4g1": [
+            "LHAV4g1_b",
+            "LHAV4g1_a"
+        ],
+        "LHPV4j1": [
+            "LHPV4j1_a",
+            "LHPV4j1_b"
+        ],
+        "LHAV4g16": [
+            "LHAV4g16_b",
+            "LHAV4g16_a"
+        ],
+        "AVLP189": [
+            "AVLP189_b",
+            "AVLP189_a"
+        ],
+        "LHPV4k1": [
+            "LHPV4k1_b",
+            "LHPV4k1_a"
+        ],
+        "LHPV4f1": [
+            "LHPV4f1_b",
+            "LHPV4f1_a"
+        ],
+        "LHAV4a3": [
+            "LHAV4a3_a",
+            "LHAV4a3_b"
+        ],
+        "CRE043": [
+            "CRE043_c",
+            "CRE043_d",
+            "CRE043_a",
+            "CRE043_b"
+        ],
+        "LHPV2c1": [
+            "LHPV2c1_a",
+            "LHPV2c1_b",
+            "LHPV2c1_c"
+        ],
+        "LHPV2e1": [
+            "LHPV2e1_b",
+            "LHPV2e1_a"
+        ],
+        "LHAV2b7": [
+            "LHAV2b7_b",
+            "LHAV2b7_a"
+        ],
+        "LHAV4g6": [
+            "LHAV4g6_a",
+            "LHAV4g6_b"
+        ],
+        "LHAV1a2": [
+            "LHAV1a2_a",
+            "LHAV1a2_b"
+        ],
+        "LHPV2f1": [
+            "LHPV2f1_b",
+            "LHPV2f1_a"
+        ],
+        "LHPV3b1": [
+            "LHPV3b1_b",
+            "LHPV3b1_a"
+        ],
+        "LHPV3a3": [
+            "LHPV3a3_b",
+            "LHPV3a3_c",
+            "LHPV3a3_a"
+        ],
+        "CL299": [
+            "CL299_a",
+            "CL299_b"
+        ],
+        "LHAV2b5": [
+            "LHAV2b5_a",
+            "LHAV2b5_b"
+        ],
+        "AVLP237": [
+            "AVLP237_c",
+            "AVLP237_b",
+            "AVLP237_a"
+        ],
+        "WEDPN17": [
+            "WEDPN17_a",
+            "WEDPN17_c",
+            "WEDPN17_b"
+        ],
+        "AVLP069": [
+            "AVLP069_c",
+            "AVLP069_b",
+            "AVLP069_a"
+        ],
+        "AVLP433": [
+            "AVLP433_a",
+            "AVLP433_b"
+        ],
+        "AVLP072": [
+            "AVLP072_b",
+            "AVLP072_a"
+        ],
+        "AVLP454": [
+            "AVLP454_a",
+            "AVLP454_b"
+        ],
+        "AVLP177": [
+            "AVLP177_b",
+            "AVLP177_a"
+        ],
+        "WEDPN16": [
+            "WEDPN16_c",
+            "WEDPN16_a",
+            "WEDPN16_d",
+            "WEDPN16_b"
+        ],
+        "AVLP299": [
+            "AVLP299_b",
+            "AVLP299_a",
+            "AVLP299_c"
+        ],
+        "AVLP300": [
+            "AVLP300_a",
+            "AVLP300_b"
+        ],
+        "PAM15": [
+            "PAM15_a",
+            "PAM15_b"
+        ],
+        "LAL136": [
+            "LAL136_a",
+            "LAL136_b"
+        ],
+        "AVLP224": [
+            "AVLP224_a",
+            "AVLP224_b"
+        ],
+        "AVLP194": [
+            "AVLP194_a",
+            "AVLP194_c",
+            "AVLP194_b"
+        ],
+        "AVLP524": [
+            "AVLP524_b",
+            "AVLP524_a"
+        ],
+        "AVLP311": [
+            "AVLP311_b",
+            "AVLP311_a"
+        ],
+        "PLP203": [
+            "PLP203_b",
+            "PLP203_a"
+        ],
+        "WED020": [
+            "WED020_b",
+            "WED020_a"
+        ],
+        "WED063": [
+            "WED063_b",
+            "WED063_a"
+        ],
+        "WED033": [
+            "WED033_a",
+            "WED033_b"
+        ],
+        "AVLP420": [
+            "AVLP420_b",
+            "AVLP420_a"
+        ],
+        "lLN2P": [
+            "lLN2P_c",
+            "lLN2P_a",
+            "lLN2P_b"
+        ],
+        "WED166": [
+            "WED166_b",
+            "WED166_c",
+            "WED166_a",
+            "WED166_d"
+        ],
+        "lLN2R": [
+            "lLN2R_b",
+            "lLN2R_a"
+        ],
+        "WED118": [
+            "WED118_a",
+            "WED118_b"
+        ],
+        "WED161": [
+            "WED161_b",
+            "WED161_a"
+        ],
+        "SAD021": [
+            "SAD021_c",
+            "SAD021_a",
+            "SAD021_b"
+        ],
+        "VES034": [
+            "VES034_a",
+            "VES034_b"
+        ],
+        "LHAD3a10": [
+            "LHAD3a10_b",
+            "LHAD3a10_a"
+        ]
+    },
+    "subct_to_ct": {
+        "AOTU002_b": "AOTU002",
+        "AOTU002_a": "AOTU002",
+        "AOTU008_a": "AOTU008",
+        "AOTU008_b": "AOTU008",
+        "AVLP044_a": "AVLP044",
+        "AVLP044_b": "AVLP044",
+        "AVLP176_d": "AVLP176",
+        "AVLP176_c": "AVLP176",
+        "AVLP176_b": "AVLP176",
+        "AVLP206_a": "AVLP206",
+        "AVLP206_b": "AVLP206",
+        "AVLP548_d": "AVLP548",
+        "AVLP548_b": "AVLP548",
+        "AVLP548_e": "AVLP548",
+        "AVLP548_a": "AVLP548",
+        "AVLP548_f": "AVLP548",
+        "AVLP548_g": "AVLP548",
+        "AVLP548_c": "AVLP548",
+        "CL062_a": "CL062",
+        "CL086_c": "CL086",
+        "CL086_d": "CL086",
+        "CL086_a": "CL086",
+        "CL086_b": "CL086",
+        "CL086_e": "CL086",
+        "CL089_b": "CL089",
+        "CL089_c": "CL089",
+        "CL090_a": "CL090",
+        "CL090_d": "CL090",
+        "CL090_e": "CL090",
+        "CL210_b": "CL210",
+        "CL210_a": "CL210",
+        "CRE029_b": "CRE029",
+        "CRE029_c": "CRE029",
+        "CRE030_b": "CRE030",
+        "CRE030_a": "CRE030",
+        "DSKMP1A": "DSKMP1",
+        "DSKMP1B": "DSKMP1",
+        "ER1_b": "ER1",
+        "ER1_a": "ER1",
+        "ER2_b": "ER2",
+        "ER2_d": "ER2",
+        "ER2_a": "ER2",
+        "ER3a_b": "ER3a",
+        "ER3a_d": "ER3a",
+        "ER3a_a": "ER3a",
+        "ER3a_c": "ER3a",
+        "ER3d_b": "ER3d",
+        "ER3d_a": "ER3d",
+        "ER3d_c": "ER3d",
+        "ER3d_d": "ER3d",
+        "FB2H_a": "FB2H",
+        "FB2H_b": "FB2H",
+        "FB2I_b": "FB2I",
+        "FB2I_a": "FB2I",
+        "FB4P_b": "FB4P",
+        "FB4P_a": "FB4P",
+        "FB4Q_b": "FB4Q",
+        "FB4Q_a": "FB4Q",
+        "FB6C_b": "FB6C",
+        "FB6C_a": "FB6C",
+        "FB8F_b": "FB8F",
+        "FB8F_a": "FB8F",
+        "FB9B_b": "FB9B",
+        "FB9B_d": "FB9B",
+        "FB9B_a": "FB9B",
+        "FB9B_e": "FB9B",
+        "FB9B_c": "FB9B",
+        "FC1A": "FC1",
+        "FC1D": "FC1",
+        "FC1C": "FC1",
+        "FC1F": "FC1",
+        "FC1B": "FC1",
+        "FC1E": "FC1",
+        "FS4A": "FS4",
+        "FS4B": "FS4",
+        "KCa'b'-ap1": "KCa'b'-ap",
+        "KCa'b'-m": "KCa'b'",
+        "KCa'b'-ap2": "KCa'b'-ap",
+        "KCab-p": "KCab",
+        "KCab-s": "KCab",
+        "KCab-m": "KCab",
+        "KCab-c": "KCab",
+        "KCg-s2": "KCg",
+        "KCg-s1": "KCg",
+        "KCg-t": "KCg",
+        "KCg-s3": "KCg",
+        "KCg-m": "KCg",
+        "KCg-d": "KCg",
+        "LC28a": "LC28",
+        "LC28b": "LC28",
+        "LC45b": "LC45",
+        "LC45a": "LC45",
+        "LHAD3b1_a": "LHAD3b1",
+        "LHAD3b1_f": "LHAD3b1",
+        "LHAD3b1_b": "LHAD3b1",
+        "LHAD3b1_e": "LHAD3b1",
+        "LHAD3b1_c": "LHAD3b1",
+        "LHAD3b1_g": "LHAD3b1",
+        "LHAV2b2_a": "LHAV2b2",
+        "LHAV2b2_b": "LHAV2b2",
+        "LHAV2g2_a": "LHAV2g2",
+        "LHAV2g2_b": "LHAV2g2",
+        "LHAV3a1_a": "LHAV3a1",
+        "LHAV3a1_b": "LHAV3a1",
+        "LHAV3b2_a": "LHAV3b2",
+        "LHAV3b2_c": "LHAV3b2",
+        "LHAV3b2_b": "LHAV3b2",
+        "LHAV4a1_a": "LHAV4a1",
+        "LHAV4a1_b": "LHAV4a1",
+        "LHAV4e2_b": "LHAV4e2",
+        "LHAV4e2_a": "LHAV4e2",
+        "LHAV4g7_a": "LHAV4g7",
+        "LHAV5a6_a": "LHAV5a6",
+        "LHAV5a6_b": "LHAV5a6",
+        "LHAV5a7_a": "LHAV5a7",
+        "LHAV5a7_c": "LHAV5a7",
+        "LHAV6a2_a": "LHAV6a2",
+        "LHAV6a2_c": "LHAV6a2",
+        "LHAV6a2_b": "LHAV6a2",
+        "LHAV6f1_b": "LHAV6f1",
+        "LHAV6f1_a": "LHAV6f1",
+        "LHAV9a1_a": "LHAV9a1",
+        "LHAV9a1_b": "LHAV9a1",
+        "LHPV2a1_b": "LHPV2a1",
+        "LHPV2a1_c": "LHPV2a1",
+        "LHPV2a1_d": "LHPV2a1",
+        "LHPV2b2_b": "LHPV2b2",
+        "LHPV2b2_a": "LHPV2b2",
+        "LHPV2b5_a": "LHPV2b5",
+        "LHPV2b5_b": "LHPV2b5",
+        "LHPV4a10_a": "LHPV4a10",
+        "LHPV4a10_b": "LHPV4a10",
+        "LHPV4a4_b": "LHPV4a4",
+        "LHPV4a4_c": "LHPV4a4",
+        "LHPV4b1_b": "LHPV4b1",
+        "LHPV4b1_a": "LHPV4b1",
+        "LHPV4c1_b": "LHPV4c1",
+        "LHPV4c1_c": "LHPV4c1",
+        "LHPV4c4_a": "LHPV4c4",
+        "LHPV4c4_b": "LHPV4c4",
+        "LHPV5a1_a": "LHPV5a1",
+        "LHPV5a1_b": "LHPV5a1",
+        "LHPV5b2_c": "LHPV5b2",
+        "LHPV5b2_b": "LHPV5b2",
+        "LHPV5b4_a": "LHPV5b4",
+        "LHPV5b4_b": "LHPV5b4",
+        "LHPV5c1_a": "LHPV5c1",
+        "LHPV5c1_b": "LHPV5c1",
+        "LHPV5c1_d": "LHPV5c1",
+        "LHPV5c1_c": "LHPV5c1",
+        "LHPV5d1_b": "LHPV5d1",
+        "LHPV5d1_a": "LHPV5d1",
+        "LHPV6a2_a": "LHPV6a2",
+        "LHPV6a2_b": "LHPV6a2",
+        "LHPV6a3_a": "LHPV6a3",
+        "LHPV6a3_b": "LHPV6a3",
+        "LHPV6a4_b": "LHPV6a4",
+        "LHPV6a4_a": "LHPV6a4",
+        "LHPV6a4_c": "LHPV6a4",
+        "LLPC2a": "LLPC2",
+        "PAM01_a": "PAM01",
+        "PAM01_b": "PAM01",
+        "PAM06_b": "PAM06",
+        "PAM06_a": "PAM06",
+        "PEN_a(PEN1)": "PEN",
+        "PEN_b(PEN2)": "PEN",
+        "PFNm_b": "PFNm",
+        "PFNm_a": "PFNm",
+        "PFNp_e": "PFNp",
+        "PFNp_b": "PFNp",
+        "PFNp_a": "PFNp",
+        "PFNp_c": "PFNp",
+        "PFNp_d": "PFNp",
+        "PFR_b": "PFR",
+        "PFR_a": "PFR",
+        "PI1_c": "PI1",
+        "PI1_b": "PI1",
+        "PI1_a": "PI1",
+        "PLP046_a": "PLP046",
+        "PLP046_b": "PLP046",
+        "PLP115_b": "PLP115",
+        "PLP115_a": "PLP115",
+        "PS005_d": "PS005",
+        "PS005_f": "PS005",
+        "PS005_a": "PS005",
+        "PS005_b": "PS005",
+        "PS005_e": "PS005",
+        "PS005_c": "PS005",
+        "PS008_a": "PS008",
+        "PS096_b": "PS096",
+        "PS096_c": "PS096",
+        "PS096_a": "PS096",
+        "PVLP008_a": "PVLP008",
+        "PVLP008_c": "PVLP008",
+        "PVLP097_b": "PVLP097",
+        "PVLP097_a": "PVLP097",
+        "PVLP133_c": "PVLP133",
+        "PVLP133_b": "PVLP133",
+        "PVLP133_a": "PVLP133",
+        "SA1_a": "SA1",
+        "SA1_c": "SA1",
+        "SA1_b": "SA1",
+        "SA2_a": "SA2",
+        "SA2_b": "SA2",
+        "SLP044_b": "SLP044",
+        "SLP044_d": "SLP044",
+        "SLP044_c": "SLP044",
+        "SLP405_a": "SLP405",
+        "SLP405_b": "SLP405",
+        "SMP016_a": "SMP016",
+        "SMP016_b": "SMP016",
+        "SMP018_b": "SMP018",
+        "SMP018_a": "SMP018",
+        "SMP018_c": "SMP018",
+        "SMP097_b": "SMP097",
+        "SMP097_a": "SMP097",
+        "SMP098_b": "SMP098",
+        "SMP098_a": "SMP098",
+        "SMP105_a": "SMP105",
+        "SMP105_b": "SMP105",
+        "SMP316_a": "SMP316",
+        "SMP316_b": "SMP316",
+        "SMP408_d": "SMP408",
+        "SMP408_c": "SMP408",
+        "SMP486_b": "SMP486",
+        "SMP486_f": "SMP486",
+        "SMP486_c": "SMP486",
+        "TuBu06": "TuBu",
+        "TuBu07": "TuBu",
+        "TuBu08": "TuBu",
+        "TuBu02": "TuBu",
+        "TuBu10": "TuBu",
+        "TuBu04": "TuBu",
+        "TuBu01": "TuBu",
+        "TuBu05": "TuBu",
+        "TuBu09": "TuBu",
+        "TuBu03": "TuBu",
+        "TuTuB_b": "TuTuB",
+        "TuTuB_a": "TuTuB",
+        "WEDPN10A": "WEDPN10",
+        "WEDPN10B": "WEDPN10",
+        "WEDPN1A_a": "WEDPN1A",
+        "WEDPN1A_b": "WEDPN1A",
+        "WEDPN2B": "WEDPN2",
+        "WEDPN2A": "WEDPN2",
+        "aIPg4": "aIPg",
+        "aIPg3": "aIPg",
+        "aIPg2": "aIPg",
+        "aIPg1": "aIPg",
+        "aMe19b": "aMe19",
+        "aMe19a": "aMe19",
+        "lLN1_a": "lLN1",
+        "lLN1_c": "lLN1",
+        "lLN1_b": "lLN1",
+        "lLN16B": "lLN16",
+        "lLN16A": "lLN16",
+        "lLN2T_a": "lLN2T",
+        "lLN2T_e": "lLN2T",
+        "lLN2T_c": "lLN2T",
+        "lLN2T_b": "lLN2T",
+        "mAL3A": "mAL3",
+        "mAL3B": "mAL3",
+        "mAL5A": "mAL5",
+        "mAL5B": "mAL5",
+        "pC1e": "pC1",
+        "pC1d": "pC1",
+        "pC1c": "pC1",
+        "pC1b": "pC1",
+        "pC1a": "pC1",
+        "v2LN34C": "v2LN34",
+        "v2LN34A": "v2LN34",
+        "v2LN34B": "v2LN34",
+        "vDeltaA_b": "vDeltaA",
+        "vDeltaA_a": "vDeltaA",
+        "SLP044_a": "SLP044",
+        "AVLP325_b": "AVLP325",
+        "LHPV5g1_b": "LHPV5g1",
+        "FB4F_a": "FB4F",
+        "LHAV7a1_b": "LHAV7a1",
+        "FB1E_a": "FB1E",
+        "LHPD3a4_b": "LHPD3a4",
+        "SLP179_a": "SLP179",
+        "SLP015_e": "SLP015",
+        "ER2_c": "ER2",
+        "LHPD3b1_a": "LHPD3b1",
+        "WED036_a": "WED036",
+        "LHAD3a4_b": "LHAD3a4",
+        "LHAD3a3_b": "LHAD3a3",
+        "LHPV4a7_d": "LHPV4a7",
+        "LHPV6h1_a": "LHPV6h1",
+        "LHAV4e7_b": "LHAV4e7",
+        "WED055_a": "WED055",
+        "CL266_a": "CL266",
+        "LHAV1d2_a": "LHAV1d2",
+        "LHPV6a9_b": "LHPV6a9",
+        "WED040_b": "WED040",
+        "PLP042_b": "PLP042",
+        "CL062_b": "CL062",
+        "LHAD3a7_a": "LHAD3a7",
+        "ER3w_a": "ER3w",
+        "ER3p_a": "ER3p",
+        "FB2F_a": "FB2F",
+        "SLP015_b": "SLP015",
+        "LHAD1a4_a": "LHAD1a4",
+        "LHAD3a4_a": "LHAD3a4",
+        "LHPV6a9_a": "LHPV6a9",
+        "LHAD3f1_a": "LHAD3f1",
+        "FB2F_c": "FB2F",
+        "LHAD1i2_b": "LHAD1i2",
+        "SAD051_b": "SAD051",
+        "PS008_b": "PS008",
+        "SLP129_a": "SLP129",
+        "LHAD1b1_a": "LHAD1b1",
+        "lLN2F_a": "lLN2F",
+        "AVLP167_a": "AVLP167",
+        "SMP279_c": "SMP279",
+        "PAM04_a": "PAM04",
+        "LHPD3a2_c": "LHPD3a2",
+        "aSP10C_b": "aSP10C",
+        "SLP189_b": "SLP189",
+        "WED036_b": "WED036",
+        "LHPD2a5_a": "LHPD2a5",
+        "LHPV6i2_a": "LHPV6i2",
+        "LHPV6a6_a": "LHPV6a6",
+        "LHPD4e1_b": "LHPD4e1",
+        "LHPD4e1_a": "LHPD4e1",
+        "FB1E_b": "FB1E",
+        "SLP182_a": "SLP182",
+        "FB9C_b": "FB9C",
+        "SLP111_a": "SLP111",
+        "SMP432_b": "SMP432",
+        "SLP405_c": "SLP405",
+        "LHAV3a1_c": "LHAV3a1",
+        "SMP359_a": "SMP359",
+        "SLP111_b": "SLP111",
+        "SLP182_c": "SLP182",
+        "SLP182_b": "SLP182",
+        "SLP024_a": "SLP024",
+        "SMP432_a": "SMP432",
+        "SLP024_b": "SLP024",
+        "LHPV6f3_b": "LHPV6f3",
+        "SMP486_e": "SMP486",
+        "SMP486_a": "SMP486",
+        "SLP432_a": "SLP432",
+        "SLP432_b": "SLP432",
+        "LHAV6a3_a": "LHAV6a3",
+        "SMP408_b": "SMP408",
+        "SLP164_b": "SLP164",
+        "SMP408_a": "SMP408",
+        "LHPV6a6_b": "LHPV6a6",
+        "SLP164_a": "SLP164",
+        "LHPV6a11_b": "LHPV6a11",
+        "SMP359_b": "SMP359",
+        "SLP177_a": "SLP177",
+        "LHPV6a11_a": "LHPV6a11",
+        "SLP240_b": "SLP240",
+        "SLP015_c": "SLP015",
+        "SLP193_b": "SLP193",
+        "LHAV5a2_b": "LHAV5a2",
+        "LHAV7a3_b": "LHAV7a3",
+        "SLP024_c": "SLP024",
+        "SMP568_d": "SMP568",
+        "LHAD3a8_b": "LHAD3a8",
+        "LHPD3b1_b": "LHPD3b1",
+        "LHPV6i1_a": "LHPV6i1",
+        "LHPV6f4_b": "LHPV6f4",
+        "CL198_a": "CL198",
+        "SLP015_d": "SLP015",
+        "LHAV5a2_a": "LHAV5a2",
+        "LHAD3a2_a": "LHAD3a2",
+        "LHAV5a4_c": "LHAV5a4",
+        "LHAV6a1_b": "LHAV6a1",
+        "SLP240_a": "SLP240",
+        "LHAD1a4_b": "LHAD1a4",
+        "LHPD3a2_a": "LHPD3a2",
+        "LHPD3a3_a": "LHPD3a3",
+        "LHPD3a4_c": "LHPD3a4",
+        "LHPD3a3_b": "LHPD3a3",
+        "CL198_b": "CL198",
+        "LHAV4d2_a": "LHAV4d2",
+        "LHAV3b8_b": "LHAV3b8",
+        "LHAV2k10_b": "LHAV2k10",
+        "SLP177_b": "SLP177",
+        "LHAV3b1_b": "LHAV3b1",
+        "LHAV3b6_b": "LHAV3b6",
+        "LHAV5a3_b": "LHAV5a3",
+        "LHAV6b1_a": "LHAV6b1",
+        "LHAD1f3_a": "LHAD1f3",
+        "FB2G_b": "FB2G",
+        "SLP015_a": "SLP015",
+        "SLP179_b": "SLP179",
+        "LHAV3b1_a": "LHAV3b1",
+        "LHAV6a3_b": "LHAV6a3",
+        "SLP129_b": "SLP129",
+        "LHPD2a4_a": "LHPD2a4",
+        "LHAV5a7_b": "LHAV5a7",
+        "LHAV3b6_a": "LHAV3b6",
+        "LHAV3b8_a": "LHAV3b8",
+        "LHAV5a3_a": "LHAV5a3",
+        "LHAV5a2_d": "LHAV5a2",
+        "LHAV5a4_b": "LHAV5a4",
+        "LHAV5a9_a": "LHAV5a9",
+        "LHAV5a9_b": "LHAV5a9",
+        "LHAD3f1_b": "LHAD3f1",
+        "SLP193_a": "SLP193",
+        "CL090_c": "CL090",
+        "LHAV2f1_a": "LHAV2f1",
+        "LHAV2f1_b": "LHAV2f1",
+        "LHAD1b6_a": "LHAD1b6",
+        "LHPD2a4_b": "LHPD2a4",
+        "LHAV3b9_a": "LHAV3b9",
+        "LHPV6h1_b": "LHPV6h1",
+        "LHAV3b9_b": "LHAV3b9",
+        "FB9C_a": "FB9C",
+        "LHPV6f3_d": "LHPV6f3",
+        "SLP044_e": "SLP044",
+        "LHAD1b6_b": "LHAD1b6",
+        "LHAV7a3_a": "LHAV7a3",
+        "LHAV6b1_b": "LHAV6b1",
+        "LHAD1f3_b": "LHAD1f3",
+        "PAM04_b": "PAM04",
+        "LHAV2k10_a": "LHAV2k10",
+        "LHAD3e1_a": "LHAD3e1",
+        "LHPV5b2_a": "LHPV5b2",
+        "SMP195_b": "SMP195",
+        "LHAD1b1_b": "LHAD1b1",
+        "LHAD3b1_h": "LHAD3b1",
+        "PLP064_a": "PLP064",
+        "LHPD3a2_b": "LHPD3a2",
+        "LHPD3a3_c": "LHPD3a3",
+        "LHAV4b2_a": "LHAV4b2",
+        "LHPV4i3_b": "LHPV4i3",
+        "LHAV5a4_a": "LHAV5a4",
+        "LHPV6i1_b": "LHPV6i1",
+        "SLP129_c": "SLP129",
+        "LHAD1b2_b": "LHAD1b2",
+        "LHAV6f3_b": "LHAV6f3",
+        "LHAD1a2_c": "LHAD1a2",
+        "LHAV2e4_b": "LHAV2e4",
+        "SMP195_a": "SMP195",
+        "LHAD3e1_b": "LHAD3e1",
+        "LHPD2b1_a": "LHPD2b1",
+        "LHPV6f3_a": "LHPV6f3",
+        "LHPD3a4_a": "LHPD3a4",
+        "CL019_a": "CL019",
+        "CL272_a": "CL272",
+        "LHAD1a2_b": "LHAD1a2",
+        "LHAV6b2_a": "LHAV6b2",
+        "LHAV2k11_b": "LHAV2k11",
+        "AVLP225_b": "AVLP225",
+        "SMP117_b": "SMP117",
+        "CL050_b": "CL050",
+        "LHPV4c1_a": "LHPV4c1",
+        "PLP064_b": "PLP064",
+        "LHAV4g7_b": "LHAV4g7",
+        "LHAV4g4_b": "LHAV4g4",
+        "LHAV2h1_b": "LHAV2h1",
+        "LHPV4i3_a": "LHPV4i3",
+        "CL019_b": "CL019",
+        "LHAD1b2_c": "LHAD1b2",
+        "LHAV5a10_a": "LHAV5a10",
+        "LHAD1b2_d": "LHAD1b2",
+        "LHAD1b2_a": "LHAD1b2",
+        "LHAD1a2_a": "LHAD1a2",
+        "LHCENT13_a": "LHCENT13",
+        "CRE003_a": "CRE003",
+        "SIP003_a": "SIP003",
+        "FB2F_b": "FB2F",
+        "LHAV2k11_a": "LHAV2k11",
+        "LHPD4d2_a": "LHPD4d2",
+        "SIP042_b": "SIP042",
+        "SMP117_a": "SMP117",
+        "LHPV6f3_c": "LHPV6f3",
+        "LHPD2b1_b": "LHPD2b1",
+        "LHAV6a1_a": "LHAV6a1",
+        "LHAV2f2_b": "LHAV2f2",
+        "LHPV6f4_a": "LHPV6f4",
+        "LHPV4a12_b": "LHPV4a12",
+        "LHPD4d2_b": "LHPD4d2",
+        "LHAV2h1_a": "LHAV2h1",
+        "LHAV2a4_b": "LHAV2a4",
+        "LHAV2e4_a": "LHAV2e4",
+        "LHAV4e7_a": "LHAV4e7",
+        "LHAD3a7_b": "LHAD3a7",
+        "PAM08_c": "PAM08",
+        "LHAD3a2_b": "LHAD3a2",
+        "LHAD3a3_a": "LHAD3a3",
+        "LHAD3a8_a": "LHAD3a8",
+        "PVLP008_b": "PVLP008",
+        "PAM08_e": "PAM08",
+        "LHAV7a1_a": "LHAV7a1",
+        "LHPV4a7_b": "LHPV4a7",
+        "LHAV2f2_a": "LHAV2f2",
+        "LHPV4a5_b": "LHPV4a5",
+        "LHPV4a7_c": "LHPV4a7",
+        "LHAV4d2_b": "LHAV4d2",
+        "LHAV2k12_a": "LHAV2k12",
+        "LHAV2a5_b": "LHAV2a5",
+        "SIP003_b": "SIP003",
+        "LHAV3e4_a": "LHAV3e4",
+        "CL272_b": "CL272",
+        "SIP042_a": "SIP042",
+        "CRE029_a": "CRE029",
+        "LHPV4a7_a": "LHPV4a7",
+        "LHAV4b1_b": "LHAV4b1",
+        "LHAV4b2_b": "LHAV4b2",
+        "LHAV2a4_a": "LHAV2a4",
+        "LHAV4e1_b": "LHAV4e1",
+        "AVLP434_a": "AVLP434",
+        "LHPD2a4_c": "LHPD2a4",
+        "SLP188_b": "SLP188",
+        "LHPV4h1_a": "LHPV4h1",
+        "LHPV6f2_b": "LHPV6f2",
+        "SMP279_a": "SMP279",
+        "AVLP176_a": "AVLP176",
+        "SMP568_a": "SMP568",
+        "LHAV5a10_b": "LHAV5a10",
+        "LAL030_a": "LAL030",
+        "FB2B_b": "FB2B",
+        "LHAV4b1_a": "LHAV4b1",
+        "LHPV4a9_b": "LHPV4a9",
+        "LHPV6f3_e": "LHPV6f3",
+        "LHAV3g2_b": "LHAV3g2",
+        "LHAV3g2_a": "LHAV3g2",
+        "LHAV2k12_b": "LHAV2k12",
+        "LHCENT13_b": "LHCENT13",
+        "LHAV6f3_c": "LHAV6f3",
+        "LHAV4c1_a": "LHAV4c1",
+        "SLP189_a": "SLP189",
+        "LHAD1c1_b": "LHAD1c1",
+        "LHPV2a1_a": "LHPV2a1",
+        "LHPV5g1_a": "LHPV5g1",
+        "LHPV4a7_f": "LHPV4a7",
+        "LHPV4a9_a": "LHPV4a9",
+        "LHAD1c1_a": "LHAD1c1",
+        "LHPV4a5_a": "LHPV4a5",
+        "CRE003_b": "CRE003",
+        "LHAV4e1_a": "LHAV4e1",
+        "LHAV4g1_b": "LHAV4g1",
+        "SMP568_c": "SMP568",
+        "CL050_a": "CL050",
+        "LHPV4j1_a": "LHPV4j1",
+        "SMP279_b": "SMP279",
+        "LHPV4j1_b": "LHPV4j1",
+        "LHAV4g16_b": "LHAV4g16",
+        "LHPV4a4_a": "LHPV4a4",
+        "LHPV4a7_e": "LHPV4a7",
+        "PLP042_a": "PLP042",
+        "LHCENT13_d": "LHCENT13",
+        "LHAV6b2_b": "LHAV6b2",
+        "AVLP189_b": "AVLP189",
+        "AVLP225_a": "AVLP225",
+        "LHPV6f2_c": "LHPV6f2",
+        "LHAV4g16_a": "LHAV4g16",
+        "LHPV4k1_b": "LHPV4k1",
+        "LHPV4f1_b": "LHPV4f1",
+        "LHPV4a12_a": "LHPV4a12",
+        "LHAV9a1_c": "LHAV9a1",
+        "LHAV4a3_a": "LHAV4a3",
+        "AVLP189_a": "AVLP189",
+        "CRE043_c": "CRE043",
+        "PAM08_b": "PAM08",
+        "CRE043_d": "CRE043",
+        "LHPV2c1_a": "LHPV2c1",
+        "LHAV2b2_c": "LHAV2b2",
+        "LHPV2e1_b": "LHPV2e1",
+        "LHAV4a3_b": "LHAV4a3",
+        "LAL030_b": "LAL030",
+        "LHPV2c1_b": "LHPV2c1",
+        "SMP568_b": "SMP568",
+        "CRE043_a": "CRE043",
+        "LHAV2b7_b": "LHAV2b7",
+        "LHPV4k1_a": "LHPV4k1",
+        "LHAV4g6_a": "LHAV4g6",
+        "CL090_b": "CL090",
+        "LHPV2e1_a": "LHPV2e1",
+        "LHPV2a1_e": "LHPV2a1",
+        "LHAV1a2_a": "LHAV1a2",
+        "SLP188_a": "SLP188",
+        "CRE043_b": "CRE043",
+        "LHPV2f1_b": "LHPV2f1",
+        "LHPV6f2_a": "LHPV6f2",
+        "LHAV4g6_b": "LHAV4g6",
+        "LHAV2b7_a": "LHAV2b7",
+        "LHPV2f1_a": "LHPV2f1",
+        "LHPV2c1_c": "LHPV2c1",
+        "LHPV3b1_b": "LHPV3b1",
+        "CL266_b": "CL266",
+        "LHPV3a3_b": "LHPV3a3",
+        "LHAV1a2_b": "LHAV1a2",
+        "AVLP167_b": "AVLP167",
+        "LHPV4f1_a": "LHPV4f1",
+        "CL299_a": "CL299",
+        "CL299_b": "CL299",
+        "LHAV4g1_a": "LHAV4g1",
+        "CL089_a": "CL089",
+        "LHPV3b1_a": "LHPV3b1",
+        "LHAV4g4_a": "LHAV4g4",
+        "PLP042_c": "PLP042",
+        "PAM08_a": "PAM08",
+        "LHPV3a3_c": "LHPV3a3",
+        "LHAV2b5_a": "LHAV2b5",
+        "FB2G_a": "FB2G",
+        "LHAV4c1_b": "LHAV4c1",
+        "AVLP237_c": "AVLP237",
+        "AVLP237_b": "AVLP237",
+        "WEDPN17_a": "WEDPN17",
+        "AVLP069_c": "AVLP069",
+        "AVLP433_a": "AVLP433",
+        "AVLP069_b": "AVLP069",
+        "AVLP237_a": "AVLP237",
+        "AVLP072_b": "AVLP072",
+        "AVLP069_a": "AVLP069",
+        "AVLP072_a": "AVLP072",
+        "FB4F_b": "FB4F",
+        "AVLP454_a": "AVLP454",
+        "PAM08_d": "PAM08",
+        "AVLP177_b": "AVLP177",
+        "WEDPN16_c": "WEDPN16",
+        "AVLP299_b": "AVLP299",
+        "ER3w_b": "ER3w",
+        "AVLP300_a": "AVLP300",
+        "PAM15_a": "PAM15",
+        "AVLP177_a": "AVLP177",
+        "LAL136_a": "LAL136",
+        "WEDPN17_c": "WEDPN17",
+        "WEDPN16_a": "WEDPN16",
+        "WEDPN17_b": "WEDPN17",
+        "AVLP299_a": "AVLP299",
+        "PAM15_b": "PAM15",
+        "FB2B_a": "FB2B",
+        "AVLP224_a": "AVLP224",
+        "AVLP224_b": "AVLP224",
+        "AVLP300_b": "AVLP300",
+        "ER3p_b": "ER3p",
+        "WED040_a": "WED040",
+        "AVLP194_a": "AVLP194",
+        "AVLP524_b": "AVLP524",
+        "AVLP524_a": "AVLP524",
+        "AVLP454_b": "AVLP454",
+        "aSP10C_a": "aSP10C",
+        "AVLP299_c": "AVLP299",
+        "AVLP194_c": "AVLP194",
+        "WEDPN16_d": "WEDPN16",
+        "AVLP325_a": "AVLP325",
+        "AVLP311_b": "AVLP311",
+        "AVLP311_a": "AVLP311",
+        "PLP203_b": "PLP203",
+        "WED020_b": "WED020",
+        "WEDPN16_b": "WEDPN16",
+        "WED063_b": "WED063",
+        "WED033_a": "WED033",
+        "PLP203_a": "PLP203",
+        "WED040_c": "WED040",
+        "AVLP420_b": "AVLP420",
+        "LAL136_b": "LAL136",
+        "AVLP194_b": "AVLP194",
+        "lLN2P_c": "lLN2P",
+        "lLN2F_b": "lLN2F",
+        "lLN2T_d": "lLN2T",
+        "lLN2P_a": "lLN2P",
+        "lLN2P_b": "lLN2P",
+        "WED166_b": "WED166",
+        "WED063_a": "WED063",
+        "lLN2R_b": "lLN2R",
+        "WED166_c": "WED166",
+        "WED118_a": "WED118",
+        "WED020_a": "WED020",
+        "WED166_a": "WED166",
+        "WED161_b": "WED161",
+        "WED166_d": "WED166",
+        "WED118_b": "WED118",
+        "WED161_a": "WED161",
+        "WED033_b": "WED033",
+        "AVLP420_a": "AVLP420",
+        "SAD021_c": "SAD021",
+        "SAD021_a": "SAD021",
+        "SAD021_b": "SAD021",
+        "WED055_b": "WED055",
+        "VES034_a": "VES034",
+        "AVLP433_b": "AVLP433",
+        "LHAD3a10_b": "LHAD3a10",
+        "LHPD2a5_b": "LHPD2a5",
+        "VES034_b": "VES034",
+        "SMP486_d": "SMP486",
+        "LHPV6i2_b": "LHPV6i2",
+        "LHAD3a10_a": "LHAD3a10",
+        "LHAV3e4_b": "LHAV3e4",
+        "LHPV4h1_b": "LHPV4h1",
+        "LHAV2a5_a": "LHAV2a5",
+        "SLP240_c": "SLP240",
+        "SAD051_a": "SAD051",
+        "lLN2R_a": "lLN2R",
+        "LHAD3b1_d": "LHAD3b1",
+        "LHAV6f3_a": "LHAV6f3",
+        "LHAV1d2_b": "LHAV1d2",
+        "AVLP434_b": "AVLP434",
+        "LHAV2b5_b": "LHAV2b5",
+        "LHPV3a3_a": "LHPV3a3",
+        "LHAV4a1_c": "LHAV4a1",
+        "LHAD1i2_a": "LHAD1i2",
+        "LHAV5a2_c": "LHAV5a2",
+        "LHCENT13_c": "LHCENT13"
+    }
+}

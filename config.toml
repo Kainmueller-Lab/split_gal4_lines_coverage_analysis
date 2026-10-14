@@ -1,0 +1,12 @@
+[general]
+log_level = "INFO"
+neuprint_token = "add your token here"
+
+[data]
+brain = "data/annotated_cell_types_brain_v4.xlsx"
+vnc = "data/annotated_cell_types_vnc_v4.xlsx"
+brain_regions = "data/hemibrain_regions.json"
+vnc_regions = "data/vnc_regions.json"
+cell_type_mapping = "data/sub_cell_type_mappings_plus_automated.json"
+grouped_annotations_only_brain = "data/grouped_annotations_for_consolidation.xlsx"
+
