@@ -9,8 +9,8 @@ For more information, please see the corresponding paper: [Neuron types and dist
 ## Installation
 
 ```bash
-git clone https://github.com/<your-org>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/Kainmueller-Lab/split_gal4_lines_coverage_analysis.git
+cd split_gal4_lines_coverage_analysis
 pip install -r requirements.txt
 ```
 
